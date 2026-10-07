@@ -1,0 +1,28 @@
+{
+  "name": "islam-apps",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Landing page for four free Islamic learning apps (Islam Quest, Story of the Prophets, Knowledge RPG, Sira).",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build && vite build --ssr src/entry-server.tsx --outDir dist-ssr && node scripts/prerender.js",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.0",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.1.2",
+    "typescript": "~5.9.3",
+    "vite": "^8.3.3"
+  },
+  "engines": {
+    "node": ">=22.12"
+  }
+}
