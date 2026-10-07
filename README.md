@@ -30,7 +30,7 @@ All texts live in `src/content/`:
 - `site.js` – contact details, page texts, app facts, privacy policies and imprint
 - `listings.js` – the Google Play store texts (title, short and full description) – also used on the app pages
 
-When an app goes live on Google Play, set `SITE.live['<app>'] = true` in `site.js`; the button then links to the store.
+Store badges: in `SITE.stores` (`site.js`) set `play: true` once an app is live on Google Play and `appStoreId` (the number from `apps.apple.com/app/id<number>`) once it is live on the App Store. Until then the official badges are shown with a “Coming soon” note.
 Add the postal address for the imprint in `SITE.address`.
 
 Screenshots for the app pages go to `src/assets/screenshots/<app>/<lang>/NN.jpg`.
