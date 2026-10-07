@@ -4,7 +4,7 @@ export const SITE = {
   baseUrl: 'https://metur100.github.io/Islam.Apps.Landing/',
   owner: 'Medin Turkes',
   brand: 'Certi Development',
-  email: 'medin_93@live.com',
+  email: 'certidevelopment@gmail.com',
   // Street and postcode for the Impressum, e.g. 'Musterstraße 1, 40210 Düsseldorf'. Until it is set, only the city is shown.
   address: null,
   city: 'Düsseldorf',
