@@ -6,7 +6,7 @@ export const LISTINGS = {
     en: {
       title: 'Ilm Journey: Learn Islam',
       short: '131 games, the 25 prophets, Quran, Salah & Arabic – learn Islam by playing',
-      release: 'Ilm Journey 1.0.1: the Sufara now reads row by row like a printed primer – every new letter with the letters before it. Every game level teaches something new, and each prophet game walks through three key events of his life, each ending with a lesson. Each Learn topic shows every lesson only once. The Ilm Garden puts trees, water and flowers in their proper places. 131 games in all.',
+      release: 'Ilm Journey 1.0.2: the Sufara teaches one letter per lesson and ends every lesson with reading rows like a printed primer – each new letter read with the letters before it. Listen now works reliably, also after many taps. Every game level teaches something new, and each prophet game walks through three key events of his life, each ending with a lesson. Each Learn topic shows every lesson only once, and the Ilm Garden puts trees, water and flowers in their proper places.',
       full: `Ilm Journey is a free Islamic learning app for the whole family – for children (7+) with their parents, for teenagers and for adults. 131 casual games, the stories of all 25 prophets named in the Quran, the Seerah, Quran memorisation and Arabic in one app.
 
 131 GAMES, 3 LEVELS EACH
@@ -62,7 +62,7 @@ Ilm Journey – learn your deen with joy, step by step.`,
     de: {
       title: 'Ilm Journey: Islam lernen',
       short: '131 Spiele, 25 Propheten, Koran, Gebet & Arabisch – Islam spielend lernen',
-      release: 'Ilm Journey 1.0.1: Die Sufara liest jetzt Zeile für Zeile wie eine gedruckte Fibel – jeder neue Buchstabe mit den früheren. Jedes Spiel-Level lehrt etwas Neues, und jedes Prophetenspiel zeigt drei wichtige Ereignisse seines Lebens, jedes mit einer Lehre. Jedes Lern-Thema zeigt jede Lektion nur einmal. Im Ilm-Garten stehen Bäume, Wasser und Blumen an ihrem Platz. Insgesamt 131 Spiele.',
+      release: 'Ilm Journey 1.0.2: Die Sufara lehrt einen Buchstaben pro Lektion und endet jede Lektion mit Lesezeilen wie eine gedruckte Fibel. „Anhören“ funktioniert jetzt zuverlässig, auch nach vielen Tipps. Jedes Spiel-Level lehrt etwas Neues, und jedes Prophetenspiel zeigt drei wichtige Ereignisse seines Lebens, jedes mit einer Lehre. Jedes Lern-Thema zeigt jede Lektion nur einmal, und im Ilm-Garten stehen Bäume, Wasser und Blumen an ihrem Platz.',
       full: `Ilm Journey ist eine kostenlose islamische Lern-App für die ganze Familie – für Kinder (ab 7) mit ihren Eltern, für Jugendliche und Erwachsene. 131 Spiele, die Geschichten aller 25 im Koran genannten Propheten, die Sira, Koran zum Auswendiglernen und Arabisch in einer App.
 
 131 SPIELE MIT JE 3 LEVELN
@@ -118,7 +118,7 @@ Ilm Journey – deinen Din mit Freude lernen, Schritt für Schritt.`,
     bs: {
       title: 'Ilm Journey: Uči islam',
       short: '131 igara, 25 poslanika, Kur’an, namaz i arapski – uči islam kroz igru',
-      release: 'Ilm Journey 1.0.1: sufara se sada čita red po red kao iz knjige – svaki novi harf s ranijim harfovima. Svaki nivo igre uči nešto novo, a svaka igra o poslaniku prolazi kroz tri važna događaja iz njegovog života, svaki s poukom. Svaka tema u „Uči“ prikazuje lekciju samo jednom. U Bašči znanja drveće, voda i cvijeće stoje na svom mjestu. Ukupno 131 igra.',
+      release: 'Ilm Journey 1.0.2: sufara uči jedan harf po lekciji, a svaka lekcija završava redovima za čitanje kao iz knjige. „Poslušaj“ sada radi pouzdano, i nakon mnogo dodira. Svaki nivo igre uči nešto novo, a svaka igra o poslaniku prolazi kroz tri važna događaja iz njegovog života, svaki s poukom. Svaka tema u „Uči“ prikazuje lekciju samo jednom, a u Bašči znanja drveće, voda i cvijeće stoje na svom mjestu.',
       full: `Ilm Journey je besplatna islamska aplikacija za učenje za cijelu porodicu – za djecu (od 7 godina) s roditeljima, za mlade i za odrasle. 131 igara, kazivanja o svih 25 poslanika spomenutih u Kur’anu, Sira, učenje Kur’ana napamet i arapsko pismo u jednoj aplikaciji.
 
 131 IGARA S PO 3 NIVOA
