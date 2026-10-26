@@ -5,16 +5,16 @@ export const LISTINGS = {
   'ilm-journey': {
     en: {
       title: 'Ilm Journey: Learn Islam',
-      short: '119 games, the 25 prophets, Quran, Salah & Arabic – learn Islam by playing',
-      release: 'Ilm Journey 1.0: 119 casual games with 3 levels each – Salah (a game for every prayer, wudu and its conditions), Quran and Juz Amma, Arabic letters and joining, the 25 prophets, Seerah, Akhlaq, Ramadan and Islamic history. Every level ends with what you learned, with sources. Plus the stories of all 25 prophets with animated scenes, the Seerah, 26 Quranic duas, the Ilm Garden and a card album. No ads, no tracking, offline.',
-      full: `Ilm Journey is a free Islamic learning app for the whole family – for children (7+) with their parents, for teenagers and for adults. 119 casual games, the stories of all 25 prophets named in the Quran, the Seerah, Quran memorisation and Arabic in one app.
+      short: '131 games, the 25 prophets, Quran, Salah & Arabic – learn Islam by playing',
+      release: 'Ilm Journey 1.0.1: the Sufara now reads row by row like a printed primer – every new letter with the letters before it. Every game level teaches something new, and each prophet game walks through three key events of his life, each ending with a lesson. Each Learn topic shows every lesson only once. The Ilm Garden puts trees, water and flowers in their proper places. 131 games in all.',
+      full: `Ilm Journey is a free Islamic learning app for the whole family – for children (7+) with their parents, for teenagers and for adults. 131 casual games, the stories of all 25 prophets named in the Quran, the Seerah, Quran memorisation and Arabic in one app.
 
-119 GAMES, 3 LEVELS EACH
+131 GAMES, 3 LEVELS EACH
 Real games, not quizzes: drag, build, trace, sort and join. Each level ends with “You learned” – short facts with their sources.
 • Salah (18) – a game for each of the five daily prayers, Vitr and Jumu’ah, with a prayer figure that shows every position; wudu, ghusl, tayammum, adhan, the conditions of prayer, what breaks wudu, the Qibla and the manners of the masjid
-• Quran and Juz Amma (12) – rebuild ayahs from word tiles, find the missing word, put the surahs in order, listen and order, walk the Juz Amma path
-• Arabic and Sufara (14) – letters, dots and forms, joining letters into words, harakat, madd and reading line by line
-• Prophets (26) – a game for each of the 25 prophets, from Adam to Muhammad ﷺ: the Ark of Nuh, raising the Kaaba, Yusuf’s storehouse, the twelve springs and more
+• Quran and Juz Amma (13) – rebuild ayahs from word tiles, find the missing word, put the surahs in order, listen and order, walk the Juz Amma path
+• Sufara (13) and Arabic (12) – letters, dots and forms, joining letters, harakat, sukun, madd, everyday words and reading row by row
+• Prophets (26) – a game for each of the 25 prophets, from Adam to Muhammad ﷺ: three levels, three key events from the Quran, each ending with a lesson – the Ark of Nuh, raising the Kaaba, Yusuf’s storehouse and more
 • Seerah (13) – the Year of the Elephant, Cave Hira, the Hijrah, Badr, the Trench, al-Hudaybiyyah, the Farewell Sermon and Build the Masjid: the early Masjid an-Nabawi, part by part
 • Akhlaq (12) – an honest market stall, water for the thirsty, gifts for the neighbours, returning a trust, a gratitude jar
 • Ramadan (12) – suhoor and iftar, the new crescent, thirty lanterns, the odd nights, Zakat al-Fitr and Eid morning
@@ -34,7 +34,7 @@ Salah · Quran · Prophets · Seerah · Akhlaq · Ramadan · Islamic History · 
 • Learning units, beginner quests and a Master Challenge for every topic
 • Al-Fatiha and the complete Juz Amma to memorise, with optional recitation
 • 26 Quranic duas with Arabic text, transliteration and translation
-• Sufara, letter tracing and a 30-day Ramadan calendar
+• Sufara like a printed primer, read row by row; letter tracing and a 30-day Ramadan calendar
 
 YOUR GARDEN, YOUR CARDS, YOUR HERO
 • The Ilm Garden on Home grows as you learn – and nothing in it ever dies
@@ -61,16 +61,16 @@ Ilm Journey – learn your deen with joy, step by step.`,
     },
     de: {
       title: 'Ilm Journey: Islam lernen',
-      short: '119 Spiele, 25 Propheten, Koran, Gebet & Arabisch – Islam spielend lernen',
-      release: 'Ilm Journey 1.0: 119 Spiele mit je 3 Leveln – Gebet (ein Spiel für jedes Gebet, Wudu und seine Bedingungen), Koran und Dschuz Amma, arabische Buchstaben und ihr Verbinden, die 25 Propheten, Sira, Akhlaq, Ramadan und islamische Geschichte. Jedes Level endet mit dem Gelernten und seinen Quellen. Dazu die Geschichten aller 25 Propheten, die Sira, 26 Bittgebete aus dem Koran, der Ilm-Garten und ein Kartenalbum. Ohne Werbung, ohne Tracking, offline.',
-      full: `Ilm Journey ist eine kostenlose islamische Lern-App für die ganze Familie – für Kinder (ab 7) mit ihren Eltern, für Jugendliche und Erwachsene. 119 Spiele, die Geschichten aller 25 im Koran genannten Propheten, die Sira, Koran zum Auswendiglernen und Arabisch in einer App.
+      short: '131 Spiele, 25 Propheten, Koran, Gebet & Arabisch – Islam spielend lernen',
+      release: 'Ilm Journey 1.0.1: Die Sufara liest jetzt Zeile für Zeile wie eine gedruckte Fibel – jeder neue Buchstabe mit den früheren. Jedes Spiel-Level lehrt etwas Neues, und jedes Prophetenspiel zeigt drei wichtige Ereignisse seines Lebens, jedes mit einer Lehre. Jedes Lern-Thema zeigt jede Lektion nur einmal. Im Ilm-Garten stehen Bäume, Wasser und Blumen an ihrem Platz. Insgesamt 131 Spiele.',
+      full: `Ilm Journey ist eine kostenlose islamische Lern-App für die ganze Familie – für Kinder (ab 7) mit ihren Eltern, für Jugendliche und Erwachsene. 131 Spiele, die Geschichten aller 25 im Koran genannten Propheten, die Sira, Koran zum Auswendiglernen und Arabisch in einer App.
 
-119 SPIELE MIT JE 3 LEVELN
+131 SPIELE MIT JE 3 LEVELN
 Echte Spiele statt Quiz: ziehen, bauen, nachspuren, sortieren, verbinden. Jedes Level endet mit „Das hast du gelernt“ – kurze Fakten mit Quellen.
 • Gebet (18) – ein Spiel für jedes der fünf Gebete, Witr und das Freitagsgebet, mit einer Gebetsfigur, die jede Haltung zeigt; Wudu, Ghusl, Tayammum, Adhan, Bedingungen des Gebets, was das Wudu bricht, Qibla und Benehmen in der Moschee
-• Koran und Dschuz Amma (12) – Verse aus Wortkärtchen bauen, das fehlende Wort finden, Suren ordnen, hören und ordnen, den Pfad durch Dschuz Amma gehen
-• Arabisch und Sufara (14) – Buchstaben, Punkte und Formen, Buchstaben zu Wörtern verbinden, Harakat, Madd und Zeile für Zeile lesen
-• Propheten (26) – ein Spiel je Prophet, von Adam bis Muhammad ﷺ: die Arche Nuhs, die Kaaba, Yusufs Vorratshaus, die zwölf Quellen und mehr
+• Koran und Dschuz Amma (13) – Verse aus Wortkärtchen bauen, das fehlende Wort finden, Suren ordnen, hören und ordnen, den Pfad durch Dschuz Amma gehen
+• Sufara (13) und Arabisch (12) – Buchstaben, Punkte und Formen, Verbinden, Harakat, Sukun, Madd, Alltagswörter und Lesen Zeile für Zeile
+• Propheten (26) – ein Spiel je Prophet, von Adam bis Muhammad ﷺ: drei Level, drei Ereignisse aus dem Koran, jedes mit einer Lehre
 • Sira (13) – Jahr des Elefanten, Höhle Hira, Hidschra, Badr, der Graben, al-Hudaibiya, Abschiedspredigt und „Baue die Moschee“ Teil für Teil
 • Akhlaq (12) – ehrlicher Marktstand, Wasser für Durstige, Geschenke für Nachbarn, Anvertrautes zurückgeben, Dankbarkeitsglas
 • Ramadan (12) – Suhur und Iftar, Mondsichel, dreißig Laternen, ungerade Nächte, Zakat al-Fitr und Eid-Morgen
@@ -90,7 +90,7 @@ Gebet · Koran · Propheten · Sira · Akhlaq · Ramadan · Islamische Geschicht
 • Lerneinheiten, Einsteiger-Quests und eine Meister-Herausforderung für jedes Thema
 • Al-Fatiha und der komplette Dschuz Amma zum Auswendiglernen, mit optionaler Rezitation
 • 26 Bittgebete aus dem Koran mit arabischem Text, Umschrift und Übersetzung
-• Sufara, Buchstaben nachzeichnen und ein 30-Tage-Ramadan-Kalender
+• Sufara wie eine Fibel, Zeile für Zeile; Buchstaben nachzeichnen und ein 30-Tage-Ramadan-Kalender
 
 DEIN GARTEN, DEINE KARTEN, DEIN HELD
 • Der Ilm-Garten auf der Startseite wächst mit deinem Lernen – und nichts darin stirbt
@@ -117,16 +117,16 @@ Ilm Journey – deinen Din mit Freude lernen, Schritt für Schritt.`,
     },
     bs: {
       title: 'Ilm Journey: Uči islam',
-      short: '119 igara, 25 poslanika, Kur’an, namaz i arapski – uči islam kroz igru',
-      release: 'Ilm Journey 1.0: 119 igara s po 3 nivoa – namaz (igra za svaki namaz, abdest i šarti), Kur’an i Džuz Amme, harfovi i njihovo spajanje, 25 poslanika, Sira, ahlak, ramazan i islamska historija. Svaki nivo završava onim što si naučio, s izvorima. Uz to kazivanja o svih 25 poslanika s animiranim scenama, Sira, 26 kur’anskih dova, Bašča znanja i album karata. Bez reklama, bez praćenja, radi bez interneta.',
-      full: `Ilm Journey je besplatna islamska aplikacija za učenje za cijelu porodicu – za djecu (od 7 godina) s roditeljima, za mlade i za odrasle. 119 igara, kazivanja o svih 25 poslanika spomenutih u Kur’anu, Sira, učenje Kur’ana napamet i arapsko pismo u jednoj aplikaciji.
+      short: '131 igara, 25 poslanika, Kur’an, namaz i arapski – uči islam kroz igru',
+      release: 'Ilm Journey 1.0.1: sufara se sada čita red po red kao iz knjige – svaki novi harf s ranijim harfovima. Svaki nivo igre uči nešto novo, a svaka igra o poslaniku prolazi kroz tri važna događaja iz njegovog života, svaki s poukom. Svaka tema u „Uči“ prikazuje lekciju samo jednom. U Bašči znanja drveće, voda i cvijeće stoje na svom mjestu. Ukupno 131 igra.',
+      full: `Ilm Journey je besplatna islamska aplikacija za učenje za cijelu porodicu – za djecu (od 7 godina) s roditeljima, za mlade i za odrasle. 131 igara, kazivanja o svih 25 poslanika spomenutih u Kur’anu, Sira, učenje Kur’ana napamet i arapsko pismo u jednoj aplikaciji.
 
-119 IGARA S PO 3 NIVOA
+131 IGARA S PO 3 NIVOA
 Prave igre, a ne kvizovi: prevlači, gradi, piši, razvrstavaj i spajaj. Svaki nivo završava s „Naučio si“ – kratkim činjenicama s izvorima.
 • Namaz (18) – igra za sabah, podne, ikindiju, akšam i jaciju, uz vitr i džumu, s figurom koja pokazuje svaki položaj; abdest, gusul, tejemmum, ezan i ikamet, šarti namaza, šta kvari abdest, kibla i adab u džamiji
-• Kur’an i Džuz Amme (12) – složi ajete od pločica s riječima, pronađi riječ koja nedostaje, poredaj sure, slušaj i poredaj, prođi stazom Džuz Amme
-• Arapski i sufara (14) – harfovi, tačke i oblici, spajanje harfova u riječi, hareketi, medd i čitanje red po red
-• Poslanici (26) – igra za svakog od 25 poslanika, od Adema do Muhammeda ﷺ: Nuhova lađa, podizanje Kabe, Jusufov ambar, dvanaest izvora i još mnogo toga
+• Kur’an i Džuz Amme (13) – složi ajete od pločica s riječima, pronađi riječ koja nedostaje, poredaj sure, slušaj i poredaj, prođi stazom Džuz Amme
+• Sufara (13) i arapski (12) – harfovi, tačke i oblici, spajanje harfova, hareketi, sukun, medd, svakodnevne riječi i čitanje red po red
+• Poslanici (26) – igra za svakog od 25 poslanika, od Adema do Muhammeda ﷺ: tri nivoa, tri važna događaja iz Kur’ana, svaki s poukom – Nuhova lađa, podizanje Kabe, Jusufov ambar i još mnogo toga
 • Sira (13) – Godina slona, pećina Hira, Hidžra, Bedr, Hendek, Hudejbija, Oproštajna hutba i „Izgradi mesdžid“: rani Poslanikov mesdžid, dio po dio
 • Ahlak (12) – pošten pazarski štand, voda za žedne, pokloni za komšije, vraćanje emaneta, tegla zahvalnosti
 • Ramazan (12) – sehur i iftar, mlađak, trideset fenjera, neparne noći, sadekatul-fitr i bajramsko jutro
@@ -146,7 +146,7 @@ Namaz · Kur’an · Poslanici · Sira · Ahlak · Ramazan · Islamska historija
 • Jedinice učenja, misije za početnike i Majstorski izazov za svaku temu
 • El-Fatiha i cijeli Džuz Amme za učenje napamet, uz neobavezno slušanje učenja
 • 26 dova iz Kur’ana s arapskim tekstom, transliteracijom i prijevodom
-• Sufara, pisanje harfova i ramazanski kalendar od 30 dana
+• Sufara kao iz knjige, čitanje red po red; pisanje harfova i ramazanski kalendar od 30 dana
 
 TVOJA BAŠČA, TVOJE KARTE, TVOJ JUNAK
 • Bašča znanja na početnoj stranici raste dok učiš – i ništa u njoj ne umire
